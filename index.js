@@ -1,1 +1,1 @@
-const uselessEmoji = '(-:';
+const uselessEmoji = ':-()';
